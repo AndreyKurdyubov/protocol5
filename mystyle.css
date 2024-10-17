@@ -1,6 +1,14 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    font-size: 1.5em;
+}
+
 .card {
-    border: 2px solid coral;
-    width: 400px;
+    border: 2px dashed coral;
+    width: 99%;
     height: 20%;
     margin: 0.2em;
     padding: 0.2em;
@@ -8,7 +16,7 @@
 
 .photo {
     border: 1px solid grey;
-    max-width: 90%;
+    width: 95%;
     height: auto;
     margin: 0.5em;
 }
